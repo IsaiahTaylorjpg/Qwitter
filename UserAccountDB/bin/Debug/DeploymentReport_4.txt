@@ -1,0 +1,19 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[AccountInfo] (Table)
+       [dbo].[UserStatus] (Table)
+       Foreign Key: unnamed constraint on [dbo].[UserStatus] (Foreign Key)
+       [dbo].[Login] (Procedure)
+       [dbo].[spRegister] (Procedure)
+
+** Supporting actions

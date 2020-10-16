@@ -1,0 +1,9 @@
+C:\Users\Zaeee\source\repos\MockWebApp\DataLib\bin\Debug\DataLib.dll
+C:\Users\Zaeee\source\repos\MockWebApp\DataLib\bin\Debug\DataLib.pdb
+C:\Users\Zaeee\source\repos\MockWebApp\DataLib\bin\Debug\Dapper.dll
+C:\Users\Zaeee\source\repos\MockWebApp\DataLib\bin\Debug\Dapper.xml
+C:\Users\Zaeee\source\repos\MockWebApp\DataLib\obj\Debug\DataLib.csprojAssemblyReference.cache
+C:\Users\Zaeee\source\repos\MockWebApp\DataLib\obj\Debug\DataLib.csproj.CoreCompileInputs.cache
+C:\Users\Zaeee\source\repos\MockWebApp\DataLib\obj\Debug\DataLib.csproj.CopyComplete
+C:\Users\Zaeee\source\repos\MockWebApp\DataLib\obj\Debug\DataLib.dll
+C:\Users\Zaeee\source\repos\MockWebApp\DataLib\obj\Debug\DataLib.pdb

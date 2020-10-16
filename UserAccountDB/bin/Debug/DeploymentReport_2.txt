@@ -1,0 +1,28 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       [dbo].[AccountInfo]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       The column [dbo].[AccountInfo].[Id] is being dropped, data loss could occur.
+       The column [dbo].[AccountInfo].[Password] on table [dbo].[AccountInfo] must be added, but the column has no default
+         value and does not allow NULL values. If the table contains data, the ALTER script will not work. To avoid this issue
+         you must either: add a default value to the column, mark it as allowing NULL values, or enable the generation of
+         smart-defaults as a deployment option.
+
+** User actions
+     Table rebuild
+       [dbo].[AccountInfo] (Table)
+     Create
+       [dbo].[UserStatus] (Table)
+       Foreign Key: unnamed constraint on [dbo].[UserStatus] (Foreign Key)
+       [dbo].[Login] (Procedure)
+       [dbo].[spRegister] (Procedure)
+
+** Supporting actions
+
+The column [dbo].[AccountInfo].[Id] is being dropped, data loss could occur.
+The column [dbo].[AccountInfo].[Password] on table [dbo].[AccountInfo] must be added, but the column has no default value and does not allow NULL values. If the table contains data, the ALTER script will not work. To avoid this issue you must either: add a default value to the column, mark it as allowing NULL values, or enable the generation of smart-defaults as a deployment option.
+

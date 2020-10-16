@@ -1,0 +1,36 @@
+﻿@model MockWebApp.Models.StatusMod
+@{
+    ViewBag.Title = "Dashboard"; 
+}
+
+
+<div class="justify-content-center">
+    <div class="container">
+        <h2>User Dashboard</h2>
+
+    </div>
+</div>
+<div class="jumbotron jumbotron-fluid justify-content-lg-center">
+    <div class="container">
+        <div class="card">
+
+            <h1 class="text-center">Welcome @Session["FullName"].ToString()</h1>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-6">
+        @Html.ActionLink("Make A Post", "MakeAPost", "Accounts", new { @class = "btn btn-primary btn-lg" })
+    </div>
+    <div class="col-md-6">
+        @Html.ActionLink("View Posts", "ViewPosts", "Accounts", new { @class = "btn btn-primary btn-lg" })
+    </div>
+</div>
+
+
+
+
+   
+
+

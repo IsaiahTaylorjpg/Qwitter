@@ -1,0 +1,10 @@
+C:\Users\Zaeee\source\repos\MockWebApp\UserAccountDB\bin\Debug\UserAccountDB.dacpac
+C:\Users\Zaeee\source\repos\MockWebApp\UserAccountDB\bin\Debug\UserAccountDB.dll
+C:\Users\Zaeee\source\repos\MockWebApp\UserAccountDB\bin\Debug\UserAccountDB.pdb
+C:\Users\Zaeee\source\repos\MockWebApp\UserAccountDB\obj\Debug\UserAccountDB.sqlprojAssemblyReference.cache
+C:\Users\Zaeee\source\repos\MockWebApp\UserAccountDB\obj\Debug\UserAccountDB.dll
+C:\Users\Zaeee\source\repos\MockWebApp\UserAccountDB\obj\Debug\UserAccountDB.pdb
+C:\Users\Zaeee\source\repos\MockWebApp\UserAccountDB\obj\Debug\Model.xml
+C:\Users\Zaeee\source\repos\MockWebApp\UserAccountDB\obj\Debug\refactor.xml
+C:\Users\Zaeee\source\repos\MockWebApp\UserAccountDB\obj\Debug\postdeploy.sql
+C:\Users\Zaeee\source\repos\MockWebApp\UserAccountDB\obj\Debug\predeploy.sql

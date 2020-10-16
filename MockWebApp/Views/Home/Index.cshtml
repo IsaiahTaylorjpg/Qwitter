@@ -1,0 +1,17 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1>Welcome to Qwitter</h1>
+    <p class="lead">This is a mock Twitter/Quora website where you can post, delete, and view other users posts.</p>
+</div>
+
+<div class="row">
+    <div class="col-md-6">
+        <p> @Html.ActionLink("Sign Up Here", "Signup", "Home", new { @class = "btn btn-primary btn-lg" })</p>
+    </div>
+    <div class="col-md-6">
+        <p>@Html.ActionLink("Login Here", "Login", "Home", new { @class = "btn btn-primary btn-lg" })</p>
+    </div>
+</div>
